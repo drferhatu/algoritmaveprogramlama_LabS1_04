@@ -1,14 +1,13 @@
 # algoritmaveprogramlama_LabS1_05
 TF Yazılım Mühendisliği Algoritma ve Programlama - 1 dersi Laboratuvar Ortamı
 
-# Java Programlama Ödevi 1 - Değişkenler ve Operatörler
+# Java Programlama Laboratuvar Görevi 1 - Değişkenler ve Operatörler
 
-## 📚 Ders Bilgileri
-**Ders:** Algoritma ve Programlama I  
+## 📚 Task Bilgileri 
 **Konu:** Değişkenler, Veri Tipleri, Operatörler ve Scanner  
 **Teslim Tarihi:** 6 Kasım
 
-## 🎯 Ödev Amaçları
+## 🎯 Task Amaçları
 
 Bu ödevde aşağıdaki konularda pratik yapacaksınız:
 - Değişken tanımlama ve kullanma
