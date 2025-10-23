@@ -1,4 +1,4 @@
-*
+/*
  * Ad Soyad: [ADINIZI BURAYA YAZIN]
  * Ogrenci No: [OGRENCI NUMARANIZI BURAYA YAZIN]
  * Tarih: [TARIHI BURAYA YAZIN]
@@ -50,7 +50,7 @@ public class OgrenciBilgi {
         
         
         
-        
+
         
         
         // Scanner'i kapatin (önemli pratik)
