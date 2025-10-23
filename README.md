@@ -1,4 +1,4 @@
-# algoritmaveprogramlama_LabS1_05
+# algoritmaveprogramlama_LabS1_04
 TF Yazılım Mühendisliği Algoritma ve Programlama - 1 dersi Laboratuvar Ortamı
 
 # Java Programlama Laboratuvar Görevi 1 - Değişkenler ve Operatörler
